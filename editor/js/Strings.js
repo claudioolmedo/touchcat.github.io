@@ -69,6 +69,7 @@ function Strings( config ) {
 			'menubar/examples/Particles': 'Particles',
 			'menubar/examples/Pong': 'Pong',
 			'menubar/examples/Shaders': 'Shaders',
+			'menubar/examples/TouchCat': 'TouchCat', //New
 
 			'menubar/view': 'View',
 			'menubar/view/fullscreen': 'Fullscreen',
