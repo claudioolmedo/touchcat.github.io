@@ -90,7 +90,7 @@ textarea, input { outline: none; } /* osx */
 /* Listbox */
 .Listbox {
 	color: #444;
-	background-color: #fff;
+	background-color: #f9f9f9;
 	padding: 0;
 	width: 100%;
 	min-height: 140px;
@@ -101,12 +101,12 @@ textarea, input { outline: none; } /* osx */
 
 .Listbox .ListboxItem {
 	padding: 6px;
-	color: #666;
+	color: #f4c2c2;
 	white-space: nowrap;
 }
 
 .Listbox .ListboxItem.active {
-	background-color: rgba(0, 0, 0, 0.04);
+	background-color: rgba(39, 1, 1, 0.04);
 }
 
 /* CodeMirror */
@@ -245,7 +245,7 @@ textarea, input { outline: none; } /* osx */
 
 button {
 	color: #555;
-	background-color: #ddd;
+	background-color: #f4e7ff;
 	border: 0px;
 	margin: 0px; /* GNOME Web */
 	padding: 5px 8px;
@@ -269,7 +269,7 @@ input, textarea {
 }
 
 input.Number {
-	color: #08f!important;
+	color: #5e2a84!important;
 	font-size: 12px;
 	border: 0px;
 	padding: 2px;
@@ -334,7 +334,7 @@ select {
 	position: absolute;
 	width: 100%;
 	height: 32px;
-	background: #eee;
+	background: #6a359c;
 	padding: 0;
 	margin: 0;
 	right: 0;
@@ -356,7 +356,7 @@ select {
 
 		#menubar .menu .title {
 			display: inline-block;
-			color: #888;
+			color: white;
 			margin: 0;
 			padding: 8px;
 			line-height: 16px;
@@ -389,7 +389,7 @@ select {
 
 				#menubar .menu .options .option:hover {
 					color: #fff;
-					background-color: #08f;
+					background-color: #5e2a84;
 				}
 
 				#menubar .menu .options .option:active {
@@ -579,7 +579,7 @@ select {
 
 		button.selected {
 			color: #fff;
-			background-color: #08f;
+			background-color: #5e2a84; /* Added commentary #5e2a84 */
 		}
 
 	input, textarea {
