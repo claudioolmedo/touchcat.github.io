@@ -11,7 +11,7 @@ body {
 
 hr {
 	border: 0;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #f8c8d8;
 }
 
 button {
@@ -377,7 +377,7 @@ select {
 		}
 
 			#menubar .menu .options hr {
-				border-color: #ddd;
+				border-color: #dab6fc;
 			}
 
 			#menubar .menu .options .option {
@@ -398,7 +398,7 @@ select {
 				}
 
 		#menubar .menu .options .inactive {
-			color: #bbb;
+			color: #f8c8d8;
 			background-color: transparent;
 			padding: 5px 10px;
 			margin: 0 !important;
